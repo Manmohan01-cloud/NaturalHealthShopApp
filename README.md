@@ -54,6 +54,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     npx expo start
     ```
     This will open the Metro Bundler in your browser. You can then scan the QR code with the Expo Go app on your phone to run the application.
+    https://youtu.be/Xk3qcUJsBB4
 
 ## Project Structure
 
