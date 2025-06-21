@@ -58,3 +58,18 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Project Structure
 
 The project is organized into several key directories:
+```
+NaturalShopApp/
+├── assets/             # Static assets like images and fonts
+├── components/         # Reusable components (Product card, Alerts, etc.)
+│   └── common/
+├── constants/          # Application constants (API endpoints, session keys)
+├── contexts/           # React Context providers for global state management
+├── screens/            # Top-level screen components
+│   └── navigation/
+├── services/           # Modules for interacting with external APIs
+├── styles/             # Reusable style sheets
+├── utils/              # Utility functions (e.g., axios client)
+├── App.js              # Root component with navigation setup
+└── package.json        # Project dependencies and scripts
+```
